@@ -1,0 +1,3 @@
+static casio
+
+# casio
